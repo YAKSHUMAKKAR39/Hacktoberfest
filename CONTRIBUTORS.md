@@ -19,4 +19,7 @@
 - Bio: Developer
 - GitHub: [Ayushi Rawat](https://github.com/ayushi7rawat)
 
-<remove this and start here>
+#### Name: Yakshu Makkar
+Place: Surat, Gujarat, India
+Bio: Student, Developer
+GitHub: [Yakshu Makkar](https://github.com/YAKSHUMAKKAR39)
